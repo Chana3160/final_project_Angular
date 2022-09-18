@@ -1,0 +1,17 @@
+<p>volenteer-list works!</p>
+
+<ul class="list-group">
+  <li *ngFor="let volunteer of volunteers" class="list-group-item">
+    <div class="row">
+      <div class="col-sm-2">
+        {{volunteer.name}}
+      </div>
+      <div class="col-sm-2">
+        {{volunteer.id}}
+      </div>
+      <div class="col-sm-2">
+        <button (click)="editVolunteer(volunteer.id);" class="btn btn-primary"> Edit </button>
+      </div>
+    </div>
+  </li>
+</ul>

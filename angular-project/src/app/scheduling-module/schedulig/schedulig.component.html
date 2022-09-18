@@ -1,0 +1,57 @@
+<p>schedulig works!</p>
+
+<form  [formGroup]="scheduligForm" >
+  
+         <table>
+     <tr class="row" >
+       <td class="col-sm-2">
+          <h1 [class.list-group-item-success]="scheduligForm.value.sunday">sunday:</h1>
+          <select id="sunday"  formControlName="sunday"  >
+            <option >{{saveVol[0]}}</option>
+          <option *ngFor="let volunteer of option[0]">{{volunteer.name}}</option>  
+          </select>
+       </td>
+        <td class="col-sm-2">
+          <h1 [class.list-group-item-success]="scheduligForm.value.monday">monday:</h1>
+          <select id="monday"  formControlName="monday">
+            <option>{{saveVol[1]}}</option>
+          <option *ngFor="let volunteer of option[1]">{{volunteer.name}}</option>  
+          </select>
+        </td>
+        <td class="col-sm-2">
+          <h1 [class.list-group-item-success]="scheduligForm.value.tuesday">tuesday:</h1>
+          <select id="tuesday"  formControlName="tuesday">
+            <option>{{saveVol[2]}}</option>
+          <option *ngFor="let volunteer of option[2]">{{volunteer.name}}</option>  
+          </select>
+        </td>
+        <td class="col-sm-2.5">
+          <h1 [class.list-group-item-success]="scheduligForm.value.wednesday">wednesday:</h1>
+          <select id="wednesday"  formControlName="wednesday">
+            <option>{{saveVol[3]}}</option>
+          <option *ngFor="let volunteer of option[3]">{{volunteer.name}}</option>  
+          </select>
+        </td>
+        <td class="col-sm-2">
+          <h1 [class.list-group-item-success]="scheduligForm.value.thursday">thursday:</h1>
+          <select id="thursday"  formControlName="thursday">
+            <option>{{saveVol[4]}}</option>
+          <option *ngFor="let volunteer of option[4]">{{volunteer.name}}</option>  
+          </select>
+        </td>
+        <td class="col-sm-2">
+          <h1 [class.list-group-item-success]="scheduligForm.value.friday">friday:</h1>
+          <select id="friday"  formControlName="friday">
+            <option>{{saveVol[5]}}</option>
+          <option *ngFor="let volunteer of option[5]">{{volunteer.name}}</option>  
+          </select>
+        </td>
+     </tr>
+   </table>
+  </form>
+  <div>
+    <button  (click)="saveChangs()" class="btn btn-primary" > save </button> 
+ </div>  
+ 
+
+   

@@ -1,0 +1,61 @@
+M:\TamiChany\TandCh\TandCh\bin\Debug\netcoreapp3.1\appsettings.Development.json
+M:\TamiChany\TandCh\TandCh\bin\Debug\netcoreapp3.1\appsettings.json
+M:\TamiChany\TandCh\TandCh\bin\Debug\netcoreapp3.1\TandCh.exe
+M:\TamiChany\TandCh\TandCh\bin\Debug\netcoreapp3.1\TandCh.deps.json
+M:\TamiChany\TandCh\TandCh\bin\Debug\netcoreapp3.1\TandCh.runtimeconfig.json
+M:\TamiChany\TandCh\TandCh\bin\Debug\netcoreapp3.1\TandCh.runtimeconfig.dev.json
+M:\TamiChany\TandCh\TandCh\bin\Debug\netcoreapp3.1\TandCh.dll
+M:\TamiChany\TandCh\TandCh\bin\Debug\netcoreapp3.1\TandCh.pdb
+M:\TamiChany\TandCh\TandCh\obj\Debug\netcoreapp3.1\TandCh.csproj.AssemblyReference.cache
+M:\TamiChany\TandCh\TandCh\obj\Debug\netcoreapp3.1\TandCh.AssemblyInfoInputs.cache
+M:\TamiChany\TandCh\TandCh\obj\Debug\netcoreapp3.1\TandCh.AssemblyInfo.cs
+M:\TamiChany\TandCh\TandCh\obj\Debug\netcoreapp3.1\TandCh.csproj.CoreCompileInputs.cache
+M:\TamiChany\TandCh\TandCh\obj\Debug\netcoreapp3.1\TandCh.MvcApplicationPartsAssemblyInfo.cache
+M:\TamiChany\TandCh\TandCh\obj\Debug\netcoreapp3.1\staticwebassets\TandCh.StaticWebAssets.Manifest.cache
+M:\TamiChany\TandCh\TandCh\obj\Debug\netcoreapp3.1\staticwebassets\TandCh.StaticWebAssets.xml
+M:\TamiChany\TandCh\TandCh\obj\Debug\netcoreapp3.1\scopedcss\bundle\TandCh.styles.css
+M:\TamiChany\TandCh\TandCh\obj\Debug\netcoreapp3.1\TandCh.RazorTargetAssemblyInfo.cache
+M:\TamiChany\TandCh\TandCh\obj\Debug\netcoreapp3.1\TandCh.dll
+M:\TamiChany\TandCh\TandCh\obj\Debug\netcoreapp3.1\TandCh.pdb
+M:\TamiChany\TandCh\TandCh\obj\Debug\netcoreapp3.1\TandCh.genruntimeconfig.cache
+M:\Angular\TandCh\TandCh\bin\Debug\netcoreapp3.1\appsettings.Development.json
+M:\Angular\TandCh\TandCh\bin\Debug\netcoreapp3.1\appsettings.json
+M:\Angular\TandCh\TandCh\bin\Debug\netcoreapp3.1\TandCh.exe
+M:\Angular\TandCh\TandCh\bin\Debug\netcoreapp3.1\TandCh.deps.json
+M:\Angular\TandCh\TandCh\bin\Debug\netcoreapp3.1\TandCh.runtimeconfig.json
+M:\Angular\TandCh\TandCh\bin\Debug\netcoreapp3.1\TandCh.runtimeconfig.dev.json
+M:\Angular\TandCh\TandCh\bin\Debug\netcoreapp3.1\TandCh.dll
+M:\Angular\TandCh\TandCh\bin\Debug\netcoreapp3.1\TandCh.pdb
+M:\Angular\TandCh\TandCh\obj\Debug\netcoreapp3.1\TandCh.csproj.AssemblyReference.cache
+M:\Angular\TandCh\TandCh\obj\Debug\netcoreapp3.1\TandCh.AssemblyInfoInputs.cache
+M:\Angular\TandCh\TandCh\obj\Debug\netcoreapp3.1\TandCh.AssemblyInfo.cs
+M:\Angular\TandCh\TandCh\obj\Debug\netcoreapp3.1\TandCh.csproj.CoreCompileInputs.cache
+M:\Angular\TandCh\TandCh\obj\Debug\netcoreapp3.1\TandCh.MvcApplicationPartsAssemblyInfo.cache
+M:\Angular\TandCh\TandCh\obj\Debug\netcoreapp3.1\staticwebassets\TandCh.StaticWebAssets.Manifest.cache
+M:\Angular\TandCh\TandCh\obj\Debug\netcoreapp3.1\staticwebassets\TandCh.StaticWebAssets.xml
+M:\Angular\TandCh\TandCh\obj\Debug\netcoreapp3.1\scopedcss\bundle\TandCh.styles.css
+M:\Angular\TandCh\TandCh\obj\Debug\netcoreapp3.1\TandCh.RazorTargetAssemblyInfo.cache
+M:\Angular\TandCh\TandCh\obj\Debug\netcoreapp3.1\TandCh.dll
+M:\Angular\TandCh\TandCh\obj\Debug\netcoreapp3.1\TandCh.pdb
+M:\Angular\TandCh\TandCh\obj\Debug\netcoreapp3.1\TandCh.genruntimeconfig.cache
+C:\Users\Hani Ziv\Documents\מדריך אנגולר\Angular\TandCh\TandCh\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Hani Ziv\Documents\מדריך אנגולר\Angular\TandCh\TandCh\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Hani Ziv\Documents\מדריך אנגולר\Angular\TandCh\TandCh\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Hani Ziv\Documents\מדריך אנגולר\Angular\TandCh\TandCh\bin\Debug\netcoreapp3.1\TandCh.exe
+C:\Users\Hani Ziv\Documents\מדריך אנגולר\Angular\TandCh\TandCh\bin\Debug\netcoreapp3.1\TandCh.deps.json
+C:\Users\Hani Ziv\Documents\מדריך אנגולר\Angular\TandCh\TandCh\bin\Debug\netcoreapp3.1\TandCh.runtimeconfig.json
+C:\Users\Hani Ziv\Documents\מדריך אנגולר\Angular\TandCh\TandCh\bin\Debug\netcoreapp3.1\TandCh.runtimeconfig.dev.json
+C:\Users\Hani Ziv\Documents\מדריך אנגולר\Angular\TandCh\TandCh\bin\Debug\netcoreapp3.1\TandCh.dll
+C:\Users\Hani Ziv\Documents\מדריך אנגולר\Angular\TandCh\TandCh\bin\Debug\netcoreapp3.1\TandCh.pdb
+C:\Users\Hani Ziv\Documents\מדריך אנגולר\Angular\TandCh\TandCh\obj\Debug\netcoreapp3.1\TandCh.csprojAssemblyReference.cache
+C:\Users\Hani Ziv\Documents\מדריך אנגולר\Angular\TandCh\TandCh\obj\Debug\netcoreapp3.1\TandCh.AssemblyInfoInputs.cache
+C:\Users\Hani Ziv\Documents\מדריך אנגולר\Angular\TandCh\TandCh\obj\Debug\netcoreapp3.1\TandCh.AssemblyInfo.cs
+C:\Users\Hani Ziv\Documents\מדריך אנגולר\Angular\TandCh\TandCh\obj\Debug\netcoreapp3.1\TandCh.csproj.CoreCompileInputs.cache
+C:\Users\Hani Ziv\Documents\מדריך אנגולר\Angular\TandCh\TandCh\obj\Debug\netcoreapp3.1\TandCh.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hani Ziv\Documents\מדריך אנגולר\Angular\TandCh\TandCh\obj\Debug\netcoreapp3.1\TandCh.RazorTargetAssemblyInfo.cache
+C:\Users\Hani Ziv\Documents\מדריך אנגולר\Angular\TandCh\TandCh\obj\Debug\netcoreapp3.1\staticwebassets\TandCh.StaticWebAssets.Manifest.cache
+C:\Users\Hani Ziv\Documents\מדריך אנגולר\Angular\TandCh\TandCh\obj\Debug\netcoreapp3.1\staticwebassets\TandCh.StaticWebAssets.xml
+C:\Users\Hani Ziv\Documents\מדריך אנגולר\Angular\TandCh\TandCh\obj\Debug\netcoreapp3.1\TandCh.dll
+C:\Users\Hani Ziv\Documents\מדריך אנגולר\Angular\TandCh\TandCh\obj\Debug\netcoreapp3.1\TandCh.pdb
+C:\Users\Hani Ziv\Documents\מדריך אנגולר\Angular\TandCh\TandCh\obj\Debug\netcoreapp3.1\TandCh.genruntimeconfig.cache
+M:\Angular\TandCh\TandCh\obj\Debug\netcoreapp3.1\TandCh.GeneratedMSBuildEditorConfig.editorconfig
